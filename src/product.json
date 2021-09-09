@@ -1,0 +1,25 @@
+{
+  "products" : [
+    {
+        "id": "3f34-ad2d",
+        "name": "samsung",
+        "img": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1uVciG4Sj2Oum3US8ppqZQ_rjyZyus1PAm-T31mYH01-Wm07rpF0KzISvSbI5&usqp=CAc",
+        "price": 10,
+        "status": true
+      },
+      {
+        "id": "3f34-ac2y",
+        "name": "samsung2",
+        "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS6r9rd9duTEGdqdhk6DJxzZ97TkMl7x_OZWg44gdkf5XIXLsM3j5_mv95OwpIihTsHqcCaNJjkTJc&usqp=CAc",
+        "price": 8,
+        "status": false
+      },
+      {
+        "id": "3f48-qwej",
+        "name": "samsung3",
+        "img": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ5Wj6jd7mCmBWT0rZrmx2eWCi03gjK2kUMonDc7QgLM_tLS7JBX6RKpgdQpPlp-41QB9fdepEwOks&usqp=CAc",
+        "price": 14,
+        "status": false
+      }
+]
+}

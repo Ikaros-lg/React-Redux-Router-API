@@ -1,0 +1,15 @@
+#nav {
+  padding: 0;
+}
+
+.active {
+  background-color: rgb(187, 185, 185);
+}
+
+a {
+  padding-left: 16px;
+}
+
+.nav-link {
+  padding: 16px 16px !important;
+}
